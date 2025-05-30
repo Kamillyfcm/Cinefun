@@ -4,12 +4,12 @@ padding:-1px;
  }
 
 .cabecalho{
-    background-color:rgb(247, 5, 5);
+    background-color:#f70505;
     color:antiquewhite;
     display:flex;
     justify-content: space-around;
     padding: 2px 0;
-    font-size:25px;
+    font-size:20px;
 } 
 .cabecalhoListaItem {
     display: inline-block;
@@ -19,21 +19,22 @@ padding:-1px;
 }
 
 .sobreImagem{
-           width:
-}
+           width: 100 px 70px
+} 
 
 .sobre{
-        background-image: linear gradient(#FFFFFF. #FFFFFF);
-        color: orange;
+        background-image: linear-gradient(#f70505, #020202);
+        color: rgb(255, 255, 255);
         display: flex;
         justify-content: center;
        align-items: center;
-       padding: 370px 0;
+       padding: 25px 50px;
 }
 
 .sobreConteudo{
-        width:
+        width: 20px 10px;
 }
 
 .sobreTitulo{
-         padding: 100px 50px;
+         padding: 50px 1px;
+}
