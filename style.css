@@ -37,6 +37,7 @@ padding:-1px;
         justify-content: center;
        align-items: center;
        padding: 25px 50px;
+       font-size: 20px;
 }
 
 .sobreConteudo{
@@ -45,10 +46,11 @@ padding:-1px;
 
 .sobreTitulo{
          padding: 50px 1px;
+
 }
 
 .arianagrande{
     position: absolute;
     width: 17.5%;
-    margin: 25px 0px 0px 980px;
+    margin: 35px -153px 10px 980px;
 }
